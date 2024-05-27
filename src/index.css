@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+} */
+/* src/index.css */
+/* 
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+  background-color: #333;
+  color: white;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+} */
+
+/* @media (min-width: 640px) {
+  .movie-card {
+    width: 150px;
+  }
+}
+
+@media (min-width: 768px) {
+  .movie-card {
+    width: 200px;
+  }
+} */
